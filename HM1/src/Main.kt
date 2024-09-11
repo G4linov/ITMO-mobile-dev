@@ -21,6 +21,4 @@ fun main() {
     val square: Double = 0.5 * leg * leg
     val perimeter: Double = leg + leg + sqrt(leg * leg + leg * leg)
     println("Площадь треугольника равна $square, периметр равен $perimeter")
-
-
 }
