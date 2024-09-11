@@ -5,7 +5,6 @@ fun main() {
     println("task 1")
     val firstString = "I can"
     val secondString = "code"
-    println("task#1")
     println("$firstString $secondString!")
 
     println("task 2")
