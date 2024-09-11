@@ -16,8 +16,9 @@ fun main() {
             " с момента моего рождения пройдет $daysPassed дней. ")
 
     println("task 3")
-    val leg = 8.0
-    val square: Double = 0.5 * leg * leg
-    val perimeter: Double = leg + leg + sqrt(leg * leg + leg * leg)
+    val leg1 = 8.0
+    val leg2 = 6.0
+    val square: Double = 0.5 * leg1 * leg2
+    val perimeter: Double = leg1 + leg2 + sqrt(leg1 * leg1 + leg2 * leg2)
     println("Площадь треугольника равна $square, периметр равен $perimeter")
 }
