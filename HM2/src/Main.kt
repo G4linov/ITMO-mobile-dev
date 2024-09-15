@@ -32,7 +32,7 @@ fun main() {
     } else {
         println("Я родился в четвертом квартале")
     }
-    
+
     println("task 4")
     val ss: Double = sin(1.0)
     println(String.format("%.3f", ss))
