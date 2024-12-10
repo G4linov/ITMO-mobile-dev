@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calorie tracker</string>
+    <string name="calorie_tracker">Calorie Tracker</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="addmeal">Добавить блюдо</string>
+    <string name="meal_name">Meal Name</string>
+    <string name="_200_kcal">200 kcal</string>
+    <string name="myStatistic">Моя статистика</string>
+</resources>
