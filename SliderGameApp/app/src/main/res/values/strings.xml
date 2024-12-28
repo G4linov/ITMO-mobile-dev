@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SliderGameApp</string>
+    <string name="mid_number">25</string>
+    <string name="check_button_text">Проверить</string>
+    <string name="points">0</string>
 </resources>
